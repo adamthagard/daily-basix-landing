@@ -40,20 +40,7 @@ features                                  :
 
   - title                                 : Daily Goal Tracking
     description                           : Stay consistent with simple daily check-ins across six key areas of wellbeing.
-    fontawesome_icon_name                 : fa-pen-to-square 
-
-  - title                                 : Daily Goal Tracking 2
-    description                           : Stay consistent with simple daily check-ins across six key areas of wellbeing.
-    fontawesome_icon_name                 : pen-to-square
-    
-
-  - title                                 : Daily Goal Tracking 3
-    description                           : Stay consistent with simple daily check-ins across six key areas of wellbeing.
     fontawesome_icon_name                 : pen
-
-  - title                                 : History Visualizations
-    description                           : Look back on past days to reflect on your progress and spot patterns over time.
-    fontawesome_icon_name                 : calendar-days
 
   - title                                 : History Visualizations
     description                           : Look back on past days to reflect on your progress and spot patterns over time.

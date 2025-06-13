@@ -49,4 +49,4 @@ Since no personal data is collected, there is no personally identifiable data to
 ## 6. Contact
 
 If you have any questions about this policy, contact us at:  
-**akthagard@gmail.com*
+**akthagard@gmail.com**
